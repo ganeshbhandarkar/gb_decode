@@ -1,0 +1,7 @@
+git // tell all commands
+
+git clone  // Clone all the repo files to pc
+git add -A  // adding new A for ALL
+git commit -m ""  /// message passing
+git push  // pushing to git
+git pull  // getting from git
