@@ -1,31 +1,69 @@
-# gb_decode
+# GIT COMMANDS
 Demo
 
-git // tell all commands
+// tell all commands
+git
 
-git clone  // Clone all the repo files to pc
-git -help or help  // verbose commands
+// Clone all the repo files to pc
+git clone 
+
+// verbose commands
+git -help or help  
 
 // Important while working with teams
 
-git init // to initiate project
-git status // to know which branch you are working
-git checkout // for the changes made in unique file or existing file or to create new branch
-git checkout -b branch-name // creates new branch and set to current branch
-git branch --list // the star branch is current branch
-git branch branch-name // to create branch and then git checkout branch-name to set it as current branch
-git stash // to make updates in stack and can checkout the other branches
-git branch -d branch-name // delete branch locally
-git push -delete origin <remote-dir> // delete branch remotely
-git fetch -p //  synchronize your branch list
-git fetch --all  // fetch all from current repo
-git branch -a // display all branches with remote/origin
-git branch -r // display all branches then succeed with => git checkout branch-name => git pull
+// to initiate project
+git init 
+
+// to know which branch you are working
+git status 
+
+// for the changes made in unique file or existing file or to create new branch
+git checkout 
+
+// creates new branch and set to current branch
+git checkout -b branch-name
+
+// the star branch is current branch
+git branch --list 
+
+// to create branch and then git checkout branch-name to set it as current branch
+git branch branch-name
+
+// to make updates in stack and can checkout the other branches
+git stash 
+
+// delete branch locally
+git branch -d branch-name 
+
+// delete branch remotely
+git push -delete origin <remote-dir> 
+  
+//  synchronize your branch list
+git fetch -p 
+
+// fetch all from current repo
+git fetch --all 
+
+// display all branches with remote/origin
+git branch -a 
+
+// display all branches then succeed with => git checkout branch-name => git pull
+git branch -r
 
 // Important with the adding process
 
-git add .  // to make all new changes to files added or changed
-git add -A  // adding new A for ALL
-git commit -m ""  /// message passing
-git push  // pushing to git
-git pull  // getting from git
+// to make all new changes to files added or changed
+git add .  
+
+// adding new A for ALL
+git add -A  
+
+// message passing
+git commit -m "" 
+
+// pushing to git
+git push  
+
+// getting from git
+git pull  
