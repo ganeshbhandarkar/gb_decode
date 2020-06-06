@@ -1,11 +1,11 @@
 # GIT COMMANDS
 Demo
 
-### tell all commands
- git
+// tell all commands
+ ### git
 
 // Clone all the repo files to pc
-git clone 
+### git clone 
 
 // verbose commands
 git -help or help  
