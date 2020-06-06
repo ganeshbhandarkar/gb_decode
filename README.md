@@ -1,8 +1,8 @@
 # GIT COMMANDS
 Demo
 
-// tell all commands
-git
+# tell all commands
+ git
 
 // Clone all the repo files to pc
 git clone 
