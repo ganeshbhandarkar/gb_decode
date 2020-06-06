@@ -1,6 +1,18 @@
 git // tell all commands
 
 git clone  // Clone all the repo files to pc
+
+// Important while working with teams
+
+git status // to know which branch you are working
+git checkout // for the changes made in unique file or existing file or to create new branch
+git checkout -b branch-name // creates new branch and set to current branch
+git branch --list // the star branch is current branch
+git branch branch-name // to create branch and then git checkout branch-name to set it as current branch
+
+// Important with the adding process
+
+git add .  // to make all new changes to files added or changed
 git add -A  // adding new A for ALL
 git commit -m ""  /// message passing
 git push  // pushing to git
