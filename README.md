@@ -70,3 +70,6 @@ git pull
 
 ### ReadMe.md Template
 ![image](https://github.com/ganeshbhandarkar/git-commands/blob/master/ReadMe_Template.PNG?raw=true)
+---------------------------------------------------------------------------------------------------
+![image](https://github.com/ganeshbhandarkar/git-commands/blob/master/demo_1.PNG?raw=true)
+![image](https://github.com/ganeshbhandarkar/git-commands/blob/master/demo_2.PNG?raw=true)
