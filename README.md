@@ -67,3 +67,6 @@ git push
 
 ### getting from git
 git pull  
+
+### ReadMe.md Template
+![image](https://github.com/ganeshbhandarkar/git-commands/blob/master/ReadMe_Template.png?raw=true)
