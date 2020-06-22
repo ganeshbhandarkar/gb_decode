@@ -1,0 +1,3 @@
+C:\TDM-GCC-64\bin\g++ -O2 -Wall -Wl,--stack=268435456 !.! -o !.exe
+C:\TDM-GCC-64\bin\g++ -O2 -Wall -Wl,--stack=268435456 !.! -o !.exe  !DDEBUG -g
+2,4
