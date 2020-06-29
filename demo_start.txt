@@ -34,3 +34,6 @@ git pull  // getting from git
 $ flutter channel master
 $ flutter config --enable-web
 $ flutter create .
+
+// code kP
+w)e((D3Zn5
