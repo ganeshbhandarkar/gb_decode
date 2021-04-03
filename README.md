@@ -1,6 +1,13 @@
 # GIT COMMANDS
 Demo
 
+### fetch all origin repo stuff to forked repo
+- git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+- git remote -v
+- git fetch upstream
+- git checkout main
+- git merge upstream/main
+
 ### tell all commands
 git
 
