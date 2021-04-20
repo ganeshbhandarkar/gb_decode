@@ -1,6 +1,26 @@
+c++
 {
 "cmd": ["g++.exe","-std=c++17", "${file}", "-o", "prog.exe", "&&" , "prog.exe<C:/Users/KIIT/Documents/CompetitiveProgramming/inputf.in>C:/Users/KIIT/Documents/CompetitiveProgramming/outputf.in"],
 "shell":true,
 "working_dir":"$file_path",
 "selector":"source.cpp"
 }
+
+
+py
+{
+	// "shell_cmd": "make"
+	"cmd": ["python", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python"
+}
+
+Advancednewfile
+auto-save
+origami
+snippetmaker
+git
+github-notifier
+sublime -linter/linter-gcc
+sublime REPL
+
